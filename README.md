@@ -1,5 +1,7 @@
 # Data Scientist  
 
+### Technical Skills
+Python Programming, Object-orientated Programming, MySQL, SQL Lite, Git, GitHub, NumPy, Database, Pandas, Scikit- learn, MS Office, Power BI, Excel, QlikView
 ### Education
 **HyperionDev | Data Science Bootcamp 03/2024 - 06/2024**
    - The DataScience bootcamp covers Python, probability, statistics, data science libraries and fundamental machine learning concepts.
